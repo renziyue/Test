@@ -9,7 +9,7 @@ public class Test {
         test.add("a");
         test.add("b");
         test.add("c");
-        test.add("c");
+        test.add("d");
         System.out.println(test.get(0));
 
 //        test.remove(0);
